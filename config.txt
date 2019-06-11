@@ -1,0 +1,6 @@
+owner=464767707439562772
+prefix=B3
+game=MR.MUSIC 3 | B3play
+stayinchannel=true
+songinstatus=false
+token=NTg1Njc5Mjg0NjIyODUyMTE1.XP_kiQ.BKO5C_Ys4o2jyw3ZQNQhJ2MO2Ls
